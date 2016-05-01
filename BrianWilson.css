@@ -1,0 +1,414 @@
+body {
+   background: rgb(11, 55, 66);
+  margin-top: 60px;
+  margin-left: 220px;
+	margin-right: 220px;
+	color: white;
+}
+.img-center {
+	margin: auto;
+	margin-bottom: 30px;
+	}
+
+h1 {
+	color: black;;
+	 font-family: "Times New Roman", Serif;
+	font-size: 64px;
+	
+}
+
+#album-text {
+	color: rgb(180, 212, 200);
+	margin: auto;
+	font-family: "Arial Black";
+}
+
+
+
+#top-body {
+	background: rgb(30, 56, 66);
+	border-radius: 25px;
+}
+
+#mid-body {
+	background: rgb(30, 56, 66);
+	border-radius: 25px;
+}
+#middle-body {
+	background: rgb(30, 56, 66);
+	border-radius: 25px;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+#low-body {
+	background: rgb(30, 56, 66);
+	border-radius: 25px;
+	margin-left: 300px;
+	margin-right: 300px;
+	margin-top: 10px;
+	padding-bottom: 0px;
+    margin-bottom: -20px;
+}
+#clickhere {
+	font-size: 16px;
+	margin-top: 40px;
+	margin-bottom: 30px;
+    font-family: "Time News Roman";
+    color: rgb(20,26,50);
+    
+}
+
+#midd-body {
+	background-color: black;
+	background-color: black;
+	border-radius: 25px;
+	background-color: black;
+    margin-top: 0px;
+}
+
+#middd-body {
+	
+	border-radius: 25px;
+ 
+}
+
+h5 {
+	color: rgb(22, 105, 100);
+}
+
+#text-chunk {
+	background: rgb(15, 42, 42);
+	color: rgb(180, 212, 200);
+	margin: auto;
+	border-color: rgb(100, 120, 140);
+	font-family: "Kaushan Script";
+}
+#chunk {
+	background: rgb(11, 55, 66);
+	background: rgb(15, 42, 42);
+	color: rgb(6, 20, 25);
+	margin: auto;
+}
+#chunka {
+	background: rgb(11, 55, 66);
+	background: rgb(15, 42, 42);
+	color: rgb(3, 12, 16);
+	margin: auto;
+    font-family: "Times New Roman";
+    font-size: 20px;
+    color: rgb(180, 212, 200);
+    padding: 30px;
+}
+
+#first-row {
+	margin: auto;
+    margin-bottom: 0px;
+}
+#first-rown {
+    margin: auto;
+   margin-bottom: -10px;
+}
+#first-rowing {
+	margin: auto;
+    margin-bottom: 0px;
+}
+#first-rows {
+	margin: auto;
+    margin-bottom: 0px;
+    border-radius: 40px;
+    
+
+}
+
+#first-row12 {
+	margin: auto;
+    margin-top: 20px;
+     margin-top: 15px;
+    margin-right: 20px;
+    margin-bottom: -10px;
+}
+
+#outlayer {
+    background-color: black;
+    border-color: black;
+    border-radius: 20px;
+    background-color: rgb(50,69,88);
+    border-color: rgb(50,69,88);
+    margin-left: 20px;
+}
+
+#outlayer2 {
+    background-color: black;
+    border-color: black;
+    border-radius: 20px;
+    background-color: rgb(50,69,88);
+    border-color: rgb(50,69,88);
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#first-rows {
+	margin: auto;
+    
+}
+
+h5 {
+	color: rgb(28, 64, 78);
+	font-size: 22px;
+	font-family: "Times New Roman";
+}
+
+#ugh {
+	background-color: rgb(0,42,56);
+	border-color: rgb(0,52,64);
+	border-radius: 20px;
+}
+
+#ugh1 {
+	background-color: rgb(0,42,56);
+	border-color: rgb(0,52,64);
+	border-radius: 20px;
+	margin-right: 20px;
+	margin-bottom:12px;
+       margin: 0 auto;
+    padding: 2px;
+}
+
+#album1 {
+	background: rgb(11, 55, 66);
+	background: rgb(32, 32, 32);
+	background: rgb(38, 38, 38);
+	color: rgb(6, 20, 25);
+	
+}
+
+#album2 {
+	background: rgb(0, 0, 0);
+	background: rgb(32, 32, 32);
+	background: rgb(38, 38, 38);
+	color: rgb(6, 20, 25);
+	
+}
+
+#album3 {
+	background: rgb(11, 55, 66);
+	background: rgb(32, 32, 32);
+	background: rgb(38, 38, 38);
+	color: rgb(6, 20, 25);
+}
+
+
+#albums {
+	margin-top: 20px;
+}
+
+#bw-image {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	
+}
+
+#listwell {
+    margin-right: -20px;
+    margin-left: 20px;
+    background-color: rgb(10,10,10);
+    border-color: rgb(60,20,50);
+     background-color: rgb(30,50,60);
+    border-radius: 40px;
+    border-color: rgb(10,20,40);
+    border-color: rgb(30,50,60);
+    margin-right: 0px;
+   
+    
+}
+#listwelly {
+    margin-right: 20px;
+    margin-left: 0px;
+    background-color: rgb(10,10,10);
+    border-color: rgb(60,20,50);
+     background-color: rgb(30,50,60);
+    border-radius: 40px;
+    border-color: rgb(10,20,40);
+    border-color: rgb(30,50,60);
+    padding-right: -100px;
+    
+    
+}
+
+
+.text-primary{
+  color: #256;
+}
+
+#chrono {
+	font: rgb(12,34,56);
+	font-size: 18px;
+    
+    
+}
+#chronon {
+	font: rgb(12,34,56);
+	font-size: 18px;
+    padding: 80px;
+    margin-left: -30px;
+    margin-bottom: -80px;
+   
+}
+
+#chronong {
+	font: rgb(12,34,56);
+	font-size: 18px;
+    padding: 80px;
+    margin-left: -30px;
+    margin-bottom: -80px;
+    margin-top: 10px;
+    margin-right: -30px;
+}
+#chronov {
+	font: rgb(12,34,56);
+	font-size: 18px;
+  margin-right: 20px;
+}
+
+#chrono1 {
+	font: rgb(12,34,56);
+	font-size: 18px;
+	color: rgb()
+}
+#chrono2 {
+	font: rgb(12,34,56);
+	font-size: 18px;
+	color: rgb()
+}
+
+#listings {
+	color: rgb(34,16,25);
+	margin-top: 20px;
+	font-family: "Times New Roman";
+	color: rgb(11, 30, 40);
+	margin-right: 120px;
+}
+
+#listingss {
+	color: rgb(34,16,25);
+	margin-top: 20px;
+	font-family: "Times New Roman";
+	color: rgb(11, 30, 40);
+	margin-right: 20px;
+	background-color: rgb(25,60,80);
+	border-radius: 40px;
+   margin-bottom: -10px;
+    
+}
+#spool {
+	background-color: rgb(50,69,88);
+	border-radius: 40px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+    margin-bottom: 10px;
+    margin: 0 auto;
+    
+    margin: 5px 5px 5px 5px;
+    margin-top: 20px;
+    margin-right: 5px;
+    border-radius: 20px;
+    margin-right: 25px;
+     
+}
+
+#spooling {
+	background-color: rgb(50,69,88);
+	border-radius: 40px;
+    margin: 0 auto;
+    
+    margin: 5px 5px 5px 5px;
+    margin-top: 20px;
+    margin-right: 5px;
+    border-radius: 20px;
+    margin-bottom: -140px;
+   
+}
+#spoold {
+	background-color: rgb(50,69,88);
+	border-radius: 40px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 20px;
+    margin-left: 25px;
+    border-radius: 20px;
+    
+}
+
+#spools {
+	background-color: rgb(255,69,88);
+	border-radius: 40px;
+	margin-left: auto;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+#br-pctr {
+	margin-top: 30px;
+    
+	border-radius: 40px;
+    
+    margin: 10px 10px 10px 10px;
+    margin-right: 10px;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#br-pctr2 {
+	margin-top: 30px;
+	border-radius: 40px;
+	margin-right: 30px;
+  margin-bottom: 30px;
+	margin-left: 30px;
+  margin: auto;
+}
+#br-pctr3 {
+	margin-top: 30px;
+  border-radius: 50px;
+  margin-bottom: 30px;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+#listings2 {
+	color: rgb(34,16,25);
+	margin-top: 20px;
+	font-family: "Times New Roman";
+	color: rgb(11, 30, 40);
+	margin-left: 20px;
+  background-color: rgb(25,60,80);
+  border-radius: 40px;
+}
+
+
+#listings1 {
+	color: rgb(34,16,25);
+	margin-top: 20px;
+	font-family: "Times New Roman";
+	color: rgb(11, 30, 40);
+}
+
+#bw-text {
+    margin-top: -110px;
+    border-radius: 40px;
+    margin-right: 10px;
+    
+   
+    
+}
+
+li
+{
+    list-style-position:inside;
+}
