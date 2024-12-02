@@ -80,7 +80,7 @@ h5 {
 
 #text-chunk {
 	background: rgb(15, 42, 42);
-	color: rgb(180, 212, 200);
+	color: rgb(159 189 178);
 	margin: auto;
 	border-color: rgb(100, 120, 140);
 	font-family: "Kaushan Script";
@@ -241,6 +241,7 @@ h5 {
 
 .text-primary{
   color: #256;
+  color: #477787;
 }
 
 #chrono {
@@ -412,3 +413,27 @@ li
 {
     list-style-position:inside;
 }
+
+#ugh h5 {
+    color: #7ca7b1;
+}
+
+#chrono {
+    color: #809696;
+    list-style-type: none;
+}
+
+#chrono li {
+    margin-bottom: 20;
+}
+
+#chronon, #chronong {
+	list-style-type:  none;
+    color: #808396;
+}
+
+#ugh1 h5 {
+    color: #9598af;
+}
+
+
